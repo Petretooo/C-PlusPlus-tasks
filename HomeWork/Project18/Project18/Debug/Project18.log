@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\programming\c++\hw\project18\project18\source.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project18.vcxproj -> D:\Programming\C++\HW\Project18\Debug\Project18.exe

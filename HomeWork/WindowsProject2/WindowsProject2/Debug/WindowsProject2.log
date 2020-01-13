@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\programming\c++\hw\windowsproject2\windowsproject2\source.cpp(5): warning C4101: 'c': unreferenced local variable
+  WindowsProject2.vcxproj -> D:\Programming\C++\HW\WindowsProject2\Debug\WindowsProject2.exe

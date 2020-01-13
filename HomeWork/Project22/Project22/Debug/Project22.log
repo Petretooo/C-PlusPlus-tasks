@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programming\c++\hw\project22\project22\source.cpp(17): warning C4101: 'Students': unreferenced local variable
+d:\programming\c++\hw\project22\project22\source.cpp(29): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'

@@ -1,0 +1,3 @@
+D:/Programming/C++/SofiaUniversity/cmake-build-debug/CMakeFiles/SofiaUniversity.dir
+D:/Programming/C++/SofiaUniversity/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C++/SofiaUniversity/cmake-build-debug/CMakeFiles/rebuild_cache.dir

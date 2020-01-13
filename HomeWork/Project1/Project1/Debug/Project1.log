@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programming\c++\hw\project1\project1\source.cpp(13): warning C4101: 'c': unreferenced local variable
+d:\programming\c++\hw\project1\project1\source.cpp(13): warning C4101: 'd': unreferenced local variable
+  Project1.vcxproj -> D:\Programming\C++\HW\Project1\Debug\Project1.exe
